@@ -1,3 +1,8 @@
+***Per usare
+- Scaricate il tutto installate nella vostra cartella di lavoro
+- Importate il database e aggiornate la connessione adesso al inizio dei file PHP
+- Usate/Modificate/Condividete :) Non dimenticatevi di guardare i Video e lasciare qualche Like >)
+
 In tutta la serie composta da 4videolezioni più la 3a in 2 versioni (completa con la scrittura del codice e compressa con solo la spiegazione del codice):
 1) lista di items estratti da un data base, non una lista in un un'unica pagina, ma paginata;
 2) cambiamento dell'ordine degli items attraverso un drag and drop
